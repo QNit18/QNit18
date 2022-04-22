@@ -25,4 +25,4 @@
 
 ## Skills:
 
-# Certificates:
+## Certificates:

@@ -2,9 +2,9 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A developer from Viet Nam </h3>
 
-- ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
+- 🧑‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
-- 🌱 I’m currently learning **C++.**
+- 👨‍💻 I’m currently learning **C++.**
 
 
 ## 📫 How to reach me:

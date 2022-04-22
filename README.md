@@ -24,6 +24,7 @@
 </p>
 
 ## Skills:
+/*
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
@@ -52,9 +53,10 @@
     </td>
   </tr>
 </table>
+*/
 
 # Certificates:
-
+/*
 <p align="center">
   <a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=c2f444b8-d6ce-4eef-9934-48d7fa7da2d1">
     <img alt="MATLAB Onramp" title="MATLAB Onramp" src="certificates/MATLAB-Onramp-certificate.png" width="300px" />
@@ -96,3 +98,4 @@
     <img alt="Kaggle - Intro to Deep Learning" title="Kaggle - Intro to Deep Learning" src="certificates/Nguyen%20Huynh%20Minh%20Tien%20-%20Intro%20to%20Deep%20Learning.png" width="200px" />
   </a>
 </p>
+*/

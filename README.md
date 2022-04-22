@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, Mình là Quang Nè</h1>
+<h1 align="center">Hi 👋, I'm Quang</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">A tre trau from Ha Nam </h3>
+<h3 align="center">A developer from Ha Nam </h3>
 
 - ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
-- 🌱 I’m currently learning **Cê pờ lớt pờ lớt.**
+- 🌱 I’m currently learning **C++.**
 
 
 ## 📫 How to reach me:
-
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   <a href="https://www.linkedin.com/in/quang-nguyen-56475b229/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>

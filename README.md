@@ -9,8 +9,6 @@
 
 ## 📫 How to reach me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/quang-nguyen-56475b229/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
   <a href="https://www.facebook.com/vanquanq18" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />

@@ -4,7 +4,7 @@
 
 - 🧑‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
-- 👨‍💻 I’m currently learning [**C++**](https://www.cplusplus.com), [**Java .**](https://www.java.com)
+- 👨‍💻 I’m currently learning [**C++**](https://www.cplusplus.com), [**Backend.**]
 
 
 ## 📫 How to reach me:

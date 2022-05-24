@@ -7,6 +7,15 @@
 - 👨‍💻 I’m currently learning [**C++**](https://www.cplusplus.com), [**Backend.**](https://roadmap.sh/backend)
 
 
+<table>
+<tr>
+  <td width="48%">
+  </td>
+  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+</tr>
+<table>
+
+
 ## 📫 How to reach me:
 <p align="center">
   </a>

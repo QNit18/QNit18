@@ -4,7 +4,7 @@
 
 - ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C++, Java**
 
 
 ## 📫 How to reach me:
@@ -32,6 +32,7 @@
 <img align="left" alt="Visual Studio Code" width="70px" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" />
 <img align="left" alt="C++" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Python" width="70px" src="https://img.icons8.com/dusk/344/python.png" />
+<img align="left" alt="Java" width="70px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="Jupyter Notebook" width="70px" src="https://img.icons8.com/fluency/344/jupyter.png" />
 
 <table style="width:100%;">

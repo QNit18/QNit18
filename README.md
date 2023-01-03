@@ -48,5 +48,5 @@
 <p align="center">
   <a href="[https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python](https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/296837118_395744805980127_5503580768324165611_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=sIbr1U9IVEEAX-jOYFK&_nc_ht=scontent.fhan3-5.fna&oh=03_AVKX-vnXOiS9tTzmrBUaxaPgzO-CFE5NK0MPox1_fr_jqg&oe=631A9E55)">
     <img alt="BraniumAcademy - C++" title="BraniumAcademy - C++" src="https://i.imgur.com/pGU1EsX.jpg" width="200px" />
-    <img alt="BraniumAcademy - C++" title="BraniumAcademy - CTDL" src="https://postimg.cc/xc5VL2yQ" width="200px" />
+    <img alt="BraniumAcademy - C++" title="BraniumAcademy - CTDL" src="[https://postimg.cc/xc5VL2yQ](https://imgur.com/a/DiJOl7E)" width="200px" />
 </p>

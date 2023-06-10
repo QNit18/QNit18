@@ -49,4 +49,5 @@
   <a href="[https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python](https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/296837118_395744805980127_5503580768324165611_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=sIbr1U9IVEEAX-jOYFK&_nc_ht=scontent.fhan3-5.fna&oh=03_AVKX-vnXOiS9tTzmrBUaxaPgzO-CFE5NK0MPox1_fr_jqg&oe=631A9E55)">
     <img alt="BraniumAcademy - C++" title="BraniumAcademy - C++" src="https://i.imgur.com/pGU1EsX.jpg" width="200px" />
     <img alt="BraniumAcademy - C++" title="BraniumAcademy - CTDL" src="https://i.imgur.com/dOW7Mkl.png" width="200px" />
+    <img alt="Udemy" title="The Complete JavaScript Course 2023: From Zero to Expert!" src="[https://i.imgur.com/dOW7Mkl.png](https://udemy-certificate.s3.amazonaws.com/image/UC-1d0da359-15b9-41b1-96ad-01b1114eb510.jpg?v=1682609965000)" width="200px" />
 </p>

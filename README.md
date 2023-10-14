@@ -33,7 +33,7 @@
 <img align="left" alt="C++" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 <img align="left" alt="Python" width="70px" src="https://img.icons8.com/dusk/344/python.png" />
 <img align="left" alt="Java" width="70px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="IntelliJ" width="70px" src="[https://icons8.com/icon/F7REdHlg6KJX/intellij-idea](https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png)" />
+<img align="left" alt="IntelliJ" width="70px" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png" />
 
 <table style="width:100%;">
   <tr>

@@ -24,8 +24,6 @@
   <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.instagram.com/vanquanq18/" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
 </p>
 
 ## Languages and Tools:

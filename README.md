@@ -4,12 +4,11 @@
 
 - ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
-- 🌱 I’m currently learning **Python, C++, Java**
+- 👨‍💻 Currently,I’m learning: **Java, Spring, DevOps**
+- 🌱 I have knowledge about: **React, JavaScript**
 
 
 ## 📫 How to reach me:
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/quang-nguyen-56475b229" > 
@@ -23,8 +22,8 @@
 
   <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-
 </p>
+
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="70px" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" />
@@ -41,8 +40,8 @@
   </tr>
 </table>
 
-# Certificates:
 
+# Certificates:
 <p align="center">
   <a href="[https://www.kaggle.com/learn/certification/nguyenhuynhminhtien/python](https://scontent.fhan3-5.fna.fbcdn.net/v/t1.15752-9/296837118_395744805980127_5503580768324165611_n.png?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=sIbr1U9IVEEAX-jOYFK&_nc_ht=scontent.fhan3-5.fna&oh=03_AVKX-vnXOiS9tTzmrBUaxaPgzO-CFE5NK0MPox1_fr_jqg&oe=631A9E55)">
     <img alt="BraniumAcademy - C++" title="BraniumAcademy - C++" src="https://i.imgur.com/pGU1EsX.jpg" width="200px" />
@@ -52,5 +51,4 @@
     <img alt="Udemy" title="The Complete JavaScript Course 2023: From Zero to Expert!" src="https://i.ibb.co/pvw6TQT/UC-1d0da359-15b9-41b1-96ad-01b1114eb510.jpg" width="200px" />
     <img alt="Udemy" title="[NEW] Spring Boot 3, Spring 6 & Hibernate for Beginners!" src="https://i.imgur.com/yj9ipJq.jpeg" width="200px" />
     <img alt="Udemy" title=" Full Stack: React and Java Spring Boot - The Developer Guide " src="https://i.imgur.com/rSUWpXk.jpeg" width="200px" />
-
 </p>

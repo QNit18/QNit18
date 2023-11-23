@@ -12,16 +12,16 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/quang-nguyen-56475b229" target="_blank"> 
+  <a href="https://www.linkedin.com/in/quang-nguyen-56475b229" > 
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
 
   <a href="https://www.facebook.com/vanquanq18" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
 
   <a href="https://github.com/vanquanq" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
-  <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" target="_blank" >
+  <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
 
 </p>

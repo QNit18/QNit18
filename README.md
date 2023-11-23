@@ -14,16 +14,16 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/quang-nguyen-56475b229" target="_blank"> 
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
+
   <a href="https://www.facebook.com/vanquanq18" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
+
   <a href="https://github.com/vanquanq" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
+
   <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
+
 </p>
 
 ## Languages and Tools:

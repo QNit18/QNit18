@@ -30,7 +30,7 @@
 <img align="left" alt="Spring Boot" width="70px" src="https://img.icons8.com/color/48/spring-logo.png"  />
 <img align="left" alt="Java" width="70px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
 <img align="left" alt="IntelliJ" width="70px" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png" />
-<img align="left" alt="React" width="70px" src="https://img.icons8.com/plasticine/100/react.png" />
+<img align="left" alt="React" width="70px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
 
 <table style="width:100%;" >
   <tr>

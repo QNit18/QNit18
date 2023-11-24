@@ -27,11 +27,10 @@
 
 ## Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="70px" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" />
-<img align="left" alt="Python" width="70px" src="https://img.icons8.com/dusk/344/python.png" />
+<img align="left" alt="Spring Boot" width="70px" src="https://img.icons8.com/color/48/spring-logo.png"  />
 <img align="left" alt="Java" width="70px" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png" />
 <img align="left" alt="IntelliJ" width="70px" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png" />
 <img align="left" alt="React" width="70px" src="https://img.icons8.com/plasticine/100/react.png" />
-
 
 <table style="width:100%;" >
   <tr>

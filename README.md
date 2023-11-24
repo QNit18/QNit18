@@ -35,7 +35,7 @@
 <img align="left" alt="React" width="70px" src="https://img.icons8.com/dusk/64/javascript.png" />
 
 
-<table style="width:100%;">
+<table style="width:100%;" align="center">
   <tr>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>

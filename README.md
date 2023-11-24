@@ -5,7 +5,7 @@
 - ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 
 - 👨‍💻 Currently,I’m learning: **Java, Spring, DevOps**
-- 🌱 I have knowledge about: **React, JavaScript**
+- 🌱 I have knowledge about: **React, JavaScript, Python**
 
 
 ## 📫 How to reach me:

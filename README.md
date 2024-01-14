@@ -3,9 +3,9 @@
 <h3 align="center">A developer from Vietnam </h3>
 
 - ✍ I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
-
-- 👨‍💻 Currently,I’m learning: **Java, Spring, DevOps**
-- 🌱 I have knowledge about: **React, JavaScript, Python, Machine Learning**
+- 👨‍💻 I know: **Spring Boot, Java, JQuery, DSA**
+- 👨‍💻 Currently,I’m researching: **Java Spring, DevOps**
+- 🌱 I have knowledge about: **React, JavaScript, Python, JQuery**
 
 
 ## 📫 How to reach me:

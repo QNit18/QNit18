@@ -8,37 +8,37 @@
 - 🌱 I have knowledge about: **React, JavaScript, Python, JQuery**
 
 
-## 📫 How to reach me:
+<!--	## 📫 How to reach me:-->
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/quang-nguyen-56475b229" > 
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
+<!--	<p align="center">-->
+<!--		<a href="https://www.linkedin.com/in/quang-nguyen-56475b229" >-->
+<!--			<img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>-->
 
-  <a href="https://www.facebook.com/vanquanq18" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
+<!--			<a href="https://www.facebook.com/vanquanq18" alt="Facebook">-->
+<!--				<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>-->
 
-  <a href="https://github.com/vanquanq" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+<!--				<a href="https://github.com/vanquanq" alt="Github">-->
+<!--					<img src="https://img.icons8.com/fluent/48/000000/github.png"/>-->
 
-  <a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-</p>
+<!--					<a href="https://www.youtube.com/channel/UCXt3U_DM6Y-slWjFwA505ZQ" alt="Youtube channel" >-->
+<!--						<img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>-->
+<!--	</p>-->
 
 
-## Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="70px" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" />
-<img align="left" alt="Spring Boot" width="70px" src="https://img.icons8.com/color/48/spring-logo.png"  />
-<img align="left" alt="Java" width="70px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />
-<img align="left" alt="IntelliJ" width="70px" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png" />
-<img align="left" alt="React" width="70px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />
+<!-- ## Languages and Tools: -->
+<!--	<img align="left" alt="Visual Studio Code" width="70px" src="https://img.icons8.com/nolan/344/visual-studio-code-2019.png" />-->
+<!--	<img align="left" alt="Spring Boot" width="70px" src="https://img.icons8.com/color/48/spring-logo.png"  />-->
+<!--	<img align="left" alt="Java" width="70px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" />-->
+<!--	<img align="left" alt="IntelliJ" width="70px" src="https://img.icons8.com/?size=100&id=F7REdHlg6KJX&format=png" />-->
+<!--	<img align="left" alt="React" width="70px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" />-->
 
-<table style="width:100%;" >
-  <tr>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>
-      </p>
-  </tr>
-</table>
+<!--	<table style="width:100%;" >-->
+<!--		<tr>-->
+<!--			<p align="center">-->
+<!--				<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="40%"/>-->
+<!--			</p>-->
+<!--		</tr>-->
+<!--	</table>-->
 
 
 # Certificates:

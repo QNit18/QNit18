@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 - 🙋‍♂️ I know: **Spring Boot, Java, JQuery,Bootstrap, DSA**
 - 👨‍💻 Currently,I’m researching: **Java Spring, Backend, DevOps, ML**
-- ✍ I have knowledge about: **React, JavaScript, Python, JQuery**
+- ✍ I have knowledge about: **HTML, CSS, JavaScript, Python, JQuery**
 
 
 <!--	## 📫 How to reach me:-->

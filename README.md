@@ -51,6 +51,7 @@
     <img alt="Udemy" title="[NEW] Spring Boot 3, Spring 6 & Hibernate for Beginners!" src="https://i.imgur.com/yj9ipJq.jpeg" width="200px" />
     <img alt="Udemy" title=" Full Stack: React and Java Spring Boot - The Developer Guide " src="https://i.imgur.com/rSUWpXk.jpeg" width="200px" />
     <br>
+    <img alt="Kaggle" src="https://github.com/QNit18/QNit18/assets/102747666/edcd29c2-d53b-4510-af8a-5f7c2d71a447" width="200px" height="150px" />
     <img alt="Kaggle" title="Intermediate Machine Learning " src="https://i.imgur.com/BUhuaeN.png" width="200px" height="150px"/>
     <img alt="Best Java Course" src="https://github.com/QNit18/QNit18/assets/102747666/b1c01bb6-7e3c-4ecb-b127-6d853efb2209" width="200px"/>
 

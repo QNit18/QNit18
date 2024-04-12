@@ -3,8 +3,8 @@
 <h3 align="center">A developer from Vietnam </h3>
 
 - 👨‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
-- 🙋‍♂️ I know: **Backend(Spring Boot, Spring MVC), Frontend(Boostrap, Thymeleaf, React)**
-- 👨‍💻 Currently,I’m researching: **Java Spring, Backend, DevOps**
+- 🙋‍♂️ I know: **Backend(Spring Framework), Frontend(Boostrap, Thymeleaf, React)**
+- 👨‍💻 Currently,I’m researching: **Microservices, Backend, DevOps**
 - ✍ I have knowledge about: **HTML, CSS, JavaScript, Python, JQuery**
 
 

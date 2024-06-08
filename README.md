@@ -5,7 +5,7 @@
 - 👨‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
 - 🙋‍♂️ I know: **Backend(Spring Framework), Frontend(Boostrap, Thymeleaf, React, Angular)**
 - 👨‍💻 Currently,I’m researching: **Microservices, Backend, DevOps**
-- ✍ I have knowledge about: **HTML, CSS, JavaScript, Python, JQuery**
+- ✍ I have knowledge about: **HTML, CSS, JavaScript, Python, JQuery, Machine Learning**
 
 
 <!--	## 📫 How to reach me:-->

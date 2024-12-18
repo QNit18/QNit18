@@ -3,9 +3,9 @@
 <h3 align="center">A developer from Vietnam </h3>
 
 - 👨‍🎓 I'm a student of: [Thang Long University](https://thanglong.edu.vn/) (TLU).
-- 🙋‍♂️ I know: **Backend(Spring Framework, Python), Frontend(React, Angular)**
-- 👨‍💻 Currently,I’m researching: **Microservices, Backend, DevOps**
-- ✍ I have knowledge about: **Boostrap, Thymeleaf,Python, JQuery, Machine Learning AI, DataStructures and Algorithms**
+- 🙋‍♂️ I know: **Backend(Spring Framework, Microservices), Frontend(React)**
+- 👨‍💻 Currently,I’m researching: **Design System, DevOps**
+- ✍ I have knowledge about: **Boostrap, Thymeleaf, Python, JQuery, DSA**
 
 
 <!--	## 📫 How to reach me:-->
